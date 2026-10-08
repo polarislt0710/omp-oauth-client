@@ -1,0 +1,16 @@
+{
+  "client_id": "https://polarislt0710.github.io/omp-oauth-client/elevenlabs-client.json",
+  "client_name": "OMP (oh-my-pi) \u2014 Hugo local",
+  "redirect_uris": [
+    "http://localhost:3000/callback",
+    "http://127.0.0.1:3000/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
